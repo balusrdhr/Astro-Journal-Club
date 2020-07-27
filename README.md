@@ -1,4 +1,4 @@
-# Astro Journal Club
+# UniMelb Astro Journal Club
 
 Public repository to keep track of all the discussed papers.
 
