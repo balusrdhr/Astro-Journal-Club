@@ -1,7 +1,9 @@
 # Astro Journal Club
 
 Public repository to keep track of all the discussed papers.
-Mettings every fortnight at 12PM Mondays.
+
+Meetings every fortnight at 12PM Mondays.
+
 A useful read : [Astronomy Paper Seminar Participation Guide & Reading Walkthrough](https://ui.adsabs.harvard.edu/abs/2020arXiv200612566C/abstract)
 
 ### 13 July
