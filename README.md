@@ -2,6 +2,8 @@
 
 Public repository to keep track of all the discussed papers.
 
+Vote on [VoxCharta](https://melbourne.voxcharta.org/)
+
 Meetings every fortnight at 12PM Mondays.
 
 A useful read : [Astronomy Paper Seminar Participation Guide & Reading Walkthrough](https://ui.adsabs.harvard.edu/abs/2020arXiv200612566C/abstract)
