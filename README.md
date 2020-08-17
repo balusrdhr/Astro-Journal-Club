@@ -15,3 +15,7 @@ A useful read : [Astronomy Paper Seminar Participation Guide & Reading Walkthrou
 * [(Un)conscious Bias in the Astronomical Profession: Universal Recommendations to improve Fairness, Inclusiveness, and Representation](https://ui.adsabs.harvard.edu/abs/2020arXiv200613685A/abstract) : Keven Ren
 
 * [When did Population III star formation end?](https://ui.adsabs.harvard.edu/abs/2020arXiv200615260L/abstract) : Balu Sreedhar
+
+### 10 August
+* [Review and comparison of active space debris capturing and removal methods](https://ui.adsabs.harvard.edu/abs/2016PrAeS..80...18S/abstract) : Benjamin Metha
+* [Constraining the Photoionization Models With a Reprojected Optical Diagnostic Diagram] (https://ui.adsabs.harvard.edu/abs/2020arXiv200709159J/abstract) : Alex Cameron
