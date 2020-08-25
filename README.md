@@ -19,3 +19,7 @@ A useful read : [Astronomy Paper Seminar Participation Guide & Reading Walkthrou
 ### 10 August
 * [Review and comparison of active space debris capturing and removal methods](https://ui.adsabs.harvard.edu/abs/2016PrAeS..80...18S/abstract) : Benjamin Metha
 * [Constraining the Photoionization Models With a Reprojected Optical Diagnostic Diagram](https://ui.adsabs.harvard.edu/abs/2020arXiv200709159J/abstract) : Alex Cameron
+
+### 24 August
+* [Five Years of Project META: an All-Sky Narrow-Band Radio Search for Extraterrestrial Signals](https://ui.adsabs.harvard.edu/abs/1993ApJ...415..218H/abstract) : Nichole Barry
+* [Quasar Sightline and Galaxy Evolution (QSAGE) survey - II. Galaxy overdensities around UV luminous quasars at z = 1-2](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3083S/abstract) : Madeline Marshall
