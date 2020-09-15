@@ -25,4 +25,4 @@ A useful read : [Astronomy Paper Seminar Participation Guide & Reading Walkthrou
 * [Quasar Sightline and Galaxy Evolution (QSAGE) survey - II. Galaxy overdensities around UV luminous quasars at z = 1-2](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3083S/abstract) : Madeline Marshall
 
 ### 07 August
-*[The warp drive: hyper-fast travel within general relativity](https://ui.adsabs.harvard.edu/abs/1994CQGra..11L..73A/abstract) : Oliver Anagnostou
+* [The warp drive: hyper-fast travel within general relativity](https://ui.adsabs.harvard.edu/abs/1994CQGra..11L..73A/abstract) : Oliver Anagnostou
