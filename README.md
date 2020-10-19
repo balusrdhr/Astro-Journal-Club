@@ -24,5 +24,14 @@ A useful read : [Astronomy Paper Seminar Participation Guide & Reading Walkthrou
 * [Five Years of Project META: an All-Sky Narrow-Band Radio Search for Extraterrestrial Signals](https://ui.adsabs.harvard.edu/abs/1993ApJ...415..218H/abstract) : Nichole Barry
 * [Quasar Sightline and Galaxy Evolution (QSAGE) survey - II. Galaxy overdensities around UV luminous quasars at z = 1-2](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3083S/abstract) : Madeline Marshall
 
-### 07 August
+### 07 September
 * [The warp drive: hyper-fast travel within general relativity](https://ui.adsabs.harvard.edu/abs/1994CQGra..11L..73A/abstract) : Oliver Anagnostou
+
+### 21 September
+* [Phosphine gas in the cloud decks of Venus](https://ui.adsabs.harvard.edu/abs/2020NatAs.tmp..178G/abstract) : Balu Sreedhar
+
+### 05 October
+* No speaker
+
+### 19 October
+* [The best place and time to live in the Milky Way](https://ui.adsabs.harvard.edu/abs/2020arXiv200913539S/abstract) : Keven Ren
