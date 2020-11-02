@@ -35,3 +35,6 @@ A useful read : [Astronomy Paper Seminar Participation Guide & Reading Walkthrou
 
 ### 19 October
 * [The best place and time to live in the Milky Way](https://ui.adsabs.harvard.edu/abs/2020arXiv200913539S/abstract) : Keven Ren
+
+### 02 November
+* [Death and Maier: meteors and mortuary rites in the eastern Torres Strait (Eud kerker: na korep maierira asmer opged Torres Straitge)](https://ui.adsabs.harvard.edu/abs/2018arXiv181011276G/abstract) : Aman Chokshi
