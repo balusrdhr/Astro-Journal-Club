@@ -38,3 +38,6 @@ A useful read : [Astronomy Paper Seminar Participation Guide & Reading Walkthrou
 
 ### 02 November
 * [Death and Maier: meteors and mortuary rites in the eastern Torres Strait (Eud kerker: na korep maierira asmer opged Torres Straitge)](https://ui.adsabs.harvard.edu/abs/2018arXiv181011276G/abstract) : Aman Chokshi
+
+### 16 November
+* No speaker
